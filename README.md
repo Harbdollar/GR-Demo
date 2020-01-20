@@ -1,4 +1,4 @@
-# gestregistrationdemo
+# Gest Registration demo
 
 Guest Registration Demo features Mobile App for Real GR App
 
